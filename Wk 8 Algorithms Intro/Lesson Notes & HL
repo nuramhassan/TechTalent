@@ -1,0 +1,34 @@
+Lesson Content 
+    1. What is an Algorithm
+    2. What is Machine Learning
+    3. Different types of Learning
+    4. The maths behind machine learning
+    5. Algorithms used in Machine Learning
+    6. Process of training a Machine Learning Model
+
+Syllabus = K1-2 (20%)
+1.1. Define Machine Learning 
+   1.1.a. Machine Learning a subset of AI
+    1.1.b Learning from experience 
+      1.1.c. Tom Mitchell definition ( ACademic) iteractive, continous learning 
+        1.1.d. Requirement for talent for learning/mathematics (i.e. Data Scientist)
+          1.1.e. Application of algorithms to given data to derive insight
+ 1.2. Explain different applications of Machine Learning 
+  1.2.a Prediction
+    1.2.b Object recognition
+      1.2.c Classification
+        1.2.d Clustering
+          1.2.e Recommendations (e.g. Netflix, Spotify)
+
+ Algorithms are instructions for problem solving
+
+In computing, programmers write algorithms that instruct
+the computer how to perform a task.
+
+When you write an algorithm the order of the instructions is
+very important.
+2. What is Machine Learning subset of AI
+3. Different types of Learning - supervised , unsupervised and 
+4. The maths behind machine learning
+5. Algorithms used in Machine Learning 
+6. Process of training a Machine Learning Model 
