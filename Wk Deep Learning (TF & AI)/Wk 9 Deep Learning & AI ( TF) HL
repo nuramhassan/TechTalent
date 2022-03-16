@@ -1,1 +1,16 @@
 
+# Practical Artificial Intellegenve:
+  Responsible Artificial Intelligence (AI) is the practice of creating, developing, and deploying AI with good intention to empower employees and businesses, and fairly impact customers and society with integrity, allowing companies to engender trust and scale AI with confidence, without harming humanity.
+ 
+ As well as the success and innovation that AI has brought to the world, it has also failed. One example is Microsoft’s AI Chatbot, named, “Tay” that was corrupted by Twitter Trolls. The chatbot was built on top of AI technology stack developed in the company, but harsh reality seems to have spoiled the innocent AI worldview: this is a good example of how data can destroy an AI-model built in a ‘clean’ lab condition without immunity to harmful influence from the outside. 
+“Hitler was right to hate the jews” - said Tay, a Microsoft most advanced chatbot after 24 hours of ‘learning’ from interactions with humans. The idea was to create a slang-laden chatbot, that would bring a new level of machine-human conversation quality. But it turned out Tay has assimilated the internet's worst tendencies into its personality.
+ 
+Another example of a less malicious AI failure more specifically Deep learning, the set of algorithms that is often used to implement AI in image recognition, also known as Computer Vision about 20 years ago. It solved earlier unsolvable task of distinguishing cats from dogs and vice-versa, and went on with more complex and demanding tasks. However, a year ago, researchers from Berkeley, University of Chicago and University of Washington collected 7,500 unedited nature photos which confuse the most advanced computer vision algorithms.
+ 
+There are serious implications when an AI Failes. This is why legislation has been put in place to mitigate or reduce the risk. In the UK, Article 22(1) of the UK GDPR limits the circumstances in which you can make solely automated decisions, including those based on profiling, that have a legal or similarly significant effect on individuals. “The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly affects him or her” {Article 22(1)}.
+ 
+These issues with AI, organisations can avoid issues in the future they should do the following:
+•	Ensure they are operating fairness without any unconscious bias, working safety and reliability  
+•	establishing internal governance, for example by an objective review panel, that is diverse and that has the knowledge to understand the possible consequences of AI infused systems. A key success factor is leadership support and the power to hold leadership accountable.
+•	Ensuring the right technical guardrails, creating quality assurance and governance to create traceability and auditability for AI systems. This is an important part of every organisation’s toolkit to allow operational and responsible AI to scale.
+•	Investing more in their own AI education and training so that all stakeholders – both internal and external – are informed of AI capabilities as well as the pitfalls.
