@@ -1,6 +1,4 @@
-
-# Practical Artificial Intellegenve:
-  Responsible Artificial Intelligence (AI) is the practice of creating, developing, and deploying AI with good intention to empower employees and businesses, and fairly impact customers and society with integrity, allowing companies to engender trust and scale AI with confidence, without harming humanity.
+Responsible Artificial Intelligence (AI) is the practice of creating, developing, and deploying AI with good intention to empower employees and businesses, and fairly impact customers and society with integrity, allowing companies to engender trust and scale AI with confidence, without harming humanity.
  
  As well as the success and innovation that AI has brought to the world, it has also failed. One example is Microsoft’s AI Chatbot, named, “Tay” that was corrupted by Twitter Trolls. The chatbot was built on top of AI technology stack developed in the company, but harsh reality seems to have spoiled the innocent AI worldview: this is a good example of how data can destroy an AI-model built in a ‘clean’ lab condition without immunity to harmful influence from the outside. 
 “Hitler was right to hate the jews” - said Tay, a Microsoft most advanced chatbot after 24 hours of ‘learning’ from interactions with humans. The idea was to create a slang-laden chatbot, that would bring a new level of machine-human conversation quality. But it turned out Tay has assimilated the internet's worst tendencies into its personality.
@@ -14,3 +12,5 @@ These issues with AI, organisations can avoid issues in the future they should d
 •	establishing internal governance, for example by an objective review panel, that is diverse and that has the knowledge to understand the possible consequences of AI infused systems. A key success factor is leadership support and the power to hold leadership accountable.
 •	Ensuring the right technical guardrails, creating quality assurance and governance to create traceability and auditability for AI systems. This is an important part of every organisation’s toolkit to allow operational and responsible AI to scale.
 •	Investing more in their own AI education and training so that all stakeholders – both internal and external – are informed of AI capabilities as well as the pitfalls.
+ 
+
